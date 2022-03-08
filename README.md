@@ -16,3 +16,5 @@ Configuração inicial para criação de banco:
 2- Adcione as informações de acesso no arquivo ".env".
 
 3- Insira o comando "php artisan migrate".
+
+Solução upgrade laravel 5 to 8 : https://mazer.dev/como-corrigir-o-erro-target-class-does-not-exist-no-laravel-8/
